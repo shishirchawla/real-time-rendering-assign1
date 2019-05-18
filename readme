@@ -1,0 +1,21 @@
+###Optional Extras
+-both optional aspects have been implemented
+1. single triangle strip is used to draw sphere and torus
+2. steady frame rate of 30fps <<*** Uncomment 'LINE 5' in Makefile to compile for steady frame rate ***>>
+
+###Application Controls 
+q - escape
+ctrl+f3 - lighting
+ctrl+f4 - wireframe
+ctrl+f5 - flat/smooth
+a - axes
+s - shape
+c - culling
+= - double tessellation
+- - halve tessellation
+b - double grid
+v - halve grid
+g - animation
+l - increase number of lights
+
+-- Shishir Chawla (s3253078)
